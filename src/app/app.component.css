@@ -1,0 +1,25 @@
+body {
+  width: 600px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 4rem;
+}
+
+p {
+  color: whitesmoke;
+}
+.top {
+  background-color: brown;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.middle {
+  background-color: rgb(27, 45, 53);
+  margin-top: 1rem;
+}
+.bottom {
+  background-color: rgb(53, 87, 43);
+  margin-top: 1rem;
+}
